@@ -1,6 +1,7 @@
 
 from pathlib import Path
 import os
+import django_heroku
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -13,7 +14,7 @@ TEMPLATES = os.path.join(BASE_DIR, "templates/")
 SECRET_KEY = 'django-insecure-_^(ncc3_=g4vqf_7jpr!o95^qzd92d308o!pao_jzgwm)x@a*5'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = [
     'onthego.herokuapp.com',
@@ -135,3 +136,5 @@ STATICFILES_DIRS = [
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 CART_SESSION_ID = "cart"
+
+django_heroku.settings(locals())
