@@ -1,0 +1,176 @@
+parent,name,slug
+1,Abrasive Blasters,"=LOWER(SUBSTITUTE(B9,"" "",""-""))"
+1,Anvils,Anvils
+1,Axes,Axes
+1,Carpentry Jointers,Carpentry Jointers
+1,Carving Chisels & Gouges,Carving Chisels & Gouges
+1,Caulking Tools,Caulking Tools
+1,Chimney Brushes,Chimney Brushes
+1,Compactors,Compactors
+1,Compressors,Compressors
+1,Concrete Brooms,Concrete Brooms
+1,Cutters,Cutters
+1,Cutters,Cutters
+1,Cutters,Cutters
+1,Cutters,Cutters
+1,Cutters,Cutters
+1,Cutters,Cutters
+1,Cutters,Cutters
+1,Cutters,Cutters
+1,Cutters,Cutters
+1,Deburring Tools,Deburring Tools
+1,Dollies & Hand Trucks,Dollies & Hand Trucks
+1,Drills,Drills
+1,Drills,Drills
+1,Drills,Drills
+1,Drills,Drills
+1,Drills,Drills
+1,Drills,Drills
+1,Electricians Fish Tape,Electricians Fish Tape
+1,Grease Guns,Grease Guns
+1,Grinders,Grinders
+1,Grips,Grips
+1,Hammers,Hammers
+1,Hammers,Hammers
+1,Hammers,Hammers
+1,Handheld Power Mixers,Handheld Power Mixers
+1,Hardware Torches,Hardware Torches
+1,Heat Guns,Heat Guns
+1,Impact Spanners & Drivers,Impact Spanners & Drivers
+1,Industrial Vibrators,Industrial Vibrators
+1,Inspection Mirrors,Inspection Mirrors
+1,Ladders & Scaffolding,Ladders & Scaffolding
+1,Ladders & Scaffolding,Ladders & Scaffolding
+1,Ladders & Scaffolding,Ladders & Scaffolding
+1,Ladders & Scaffolding,Ladders & Scaffolding
+1,Ladders & Scaffolding,Ladders & Scaffolding
+1,Ladders & Scaffolding,Ladders & Scaffolding
+1,Lathes,Lathes
+1,Light Bulb Changers,Light Bulb Changers
+1,Lighters & Matches,Lighters & Matches
+1,Log Splitters,Log Splitters
+1,Magnetic Sweepers,Magnetic Sweepers
+1,Marking Tools,Marking Tools
+1,Masonry Tools,Masonry Tools
+1,Masonry Tools,Masonry Tools
+1,Masonry Tools,Masonry Tools
+1,Masonry Tools,Masonry Tools
+1,Masonry Tools,Masonry Tools
+1,Masonry Tools,Masonry Tools
+1,Masonry Tools,Masonry Tools
+1,Masonry Tools,Masonry Tools
+1,Masonry Tools,Masonry Tools
+1,Masonry Tools,Masonry Tools
+1,Mattocks & Pickaxes,Mattocks & Pickaxes
+1,Measuring Tools & Sensors,Measuring Tools & Sensors
+1,Measuring Tools & Sensors,Measuring Tools & Sensors
+1,Measuring Tools & Sensors,Measuring Tools & Sensors
+1,Measuring Tools & Sensors,Measuring Tools & Sensors
+1,Measuring Tools & Sensors,Measuring Tools & Sensors
+1,Measuring Tools & Sensors,Measuring Tools & Sensors
+1,Measuring Tools & Sensors,Measuring Tools & Sensors
+1,Measuring Tools & Sensors,Measuring Tools & Sensors
+1,Measuring Tools & Sensors,Measuring Tools & Sensors
+1,Measuring Tools & Sensors,Measuring Tools & Sensors
+1,Measuring Tools & Sensors,Measuring Tools & Sensors
+1,Measuring Tools & Sensors,Measuring Tools & Sensors
+1,Measuring Tools & Sensors,Measuring Tools & Sensors
+1,Measuring Tools & Sensors,Measuring Tools & Sensors
+1,Measuring Tools & Sensors,Measuring Tools & Sensors
+1,Measuring Tools & Sensors,Measuring Tools & Sensors
+1,Measuring Tools & Sensors,Measuring Tools & Sensors
+1,Measuring Tools & Sensors,Measuring Tools & Sensors
+1,Measuring Tools & Sensors,Measuring Tools & Sensors
+1,Measuring Tools & Sensors,Measuring Tools & Sensors
+1,Measuring Tools & Sensors,Measuring Tools & Sensors
+1,Measuring Tools & Sensors,Measuring Tools & Sensors
+1,Measuring Tools & Sensors,Measuring Tools & Sensors
+1,Measuring Tools & Sensors,Measuring Tools & Sensors
+1,Measuring Tools & Sensors,Measuring Tools & Sensors
+1,Measuring Tools & Sensors,Measuring Tools & Sensors
+1,Measuring Tools & Sensors,Measuring Tools & Sensors
+1,Measuring Tools & Sensors,Measuring Tools & Sensors
+1,Measuring Tools & Sensors,Measuring Tools & Sensors
+1,Measuring Tools & Sensors,Measuring Tools & Sensors
+1,Measuring Tools & Sensors,Measuring Tools & Sensors
+1,Measuring Tools & Sensors,Measuring Tools & Sensors
+1,Measuring Tools & Sensors,Measuring Tools & Sensors
+1,Measuring Tools & Sensors,Measuring Tools & Sensors
+1,Measuring Tools & Sensors,Measuring Tools & Sensors
+1,Measuring Tools & Sensors,Measuring Tools & Sensors
+1,Measuring Tools & Sensors,Measuring Tools & Sensors
+1,Measuring Tools & Sensors,Measuring Tools & Sensors
+1,Measuring Tools & Sensors,Measuring Tools & Sensors
+1,Measuring Tools & Sensors,Measuring Tools & Sensors
+1,Measuring Tools & Sensors,Measuring Tools & Sensors
+1,Measuring Tools & Sensors,Measuring Tools & Sensors
+1,Milling Machines,Milling Machines
+1,Multifunction Power Tools,Multifunction Power Tools
+1,Nail Pullers,Nail Pullers
+1,Nailers & Staplers,Nailers & Staplers
+1,Nut Drivers,Nut Drivers
+1,Oil Filter Drains,Oil Filter Drains
+1,Painting Tools,Painting Tools
+1,Painting Tools,Painting Tools
+1,Painting Tools,Painting Tools
+1,Painting Tools,Painting Tools
+1,Painting Tools,Painting Tools
+1,Painting Tools,Painting Tools
+1,Painting Tools,Painting Tools
+1,Painting Tools,Painting Tools
+1,Painting Tools,Painting Tools
+1,Painting Tools,Painting Tools
+1,Pickup Tools,Pickup Tools
+1,Pipe & Bar Benders,Pipe & Bar Benders
+1,Pipe & Tube Cleaners,Pipe & Tube Cleaners
+1,Pipe Brushes,Pipe Brushes
+1,Planers,Planers
+1,Planes,Planes
+1,Pliers,Pliers
+1,Plungers,Plungers
+1,Polishers & Buffers,Polishers & Buffers
+1,Post-Hole Diggers,Post-Hole Diggers
+1,Pry Bars,Pry Bars
+1,Punches & Awls,Punches & Awls
+1,Putty Knives & Scrapers,Putty Knives & Scrapers
+1,Ratchet Tools,Ratchet Tools
+1,Reamers,Reamers
+1,Riveting Tools,Riveting Tools
+1,Riveting Tools,Riveting Tools
+1,Riveting Tools,Riveting Tools
+1,Routing Tools,Routing Tools
+1,Sanders,Sanders
+1,Sanding Blocks,Sanding Blocks
+1,Saw Horses,Saw Horses
+1,Saws,Saws
+1,Saws,Saws
+1,Saws,Saws
+1,Saws,Saws
+1,Saws,Saws
+1,Saws,Saws
+1,Saws,Saws
+1,Saws,Saws
+1,Saws,Saws
+1,Saws,Saws
+1,Saws,Saws
+1,Saws,Saws
+1,Screwdrivers,Screwdrivers
+1,Shapers,Shapers
+1,Sharpeners,Sharpeners
+1,Soldering Irons,Soldering Irons
+1,Tap Reseaters,Tap Reseaters
+1,Taps & Dies,Taps & Dies
+1,Threading Machines,Threading Machines
+1,Tool Clamps & Vices,Tool Clamps & Vices
+1,Tool Files,Tool Files
+1,Tool Keys,Tool Keys
+1,Tool Knives,Tool Knives
+1,Toolsets,Toolsets
+1,Toolsets,Toolsets
+1,Toolsets,Toolsets
+1,Torches & Headlamps,Torches & Headlamps
+1,Torches & Headlamps,Torches & Headlamps
+1,Torches & Headlamps,Torches & Headlamps
+1,Welding Guns & Plasma Cutters,Welding Guns & Plasma Cutters
+1,Wire & Cable Hand Tools,Wire & Cable Hand Tools
+1,Work Lights,Work Lights

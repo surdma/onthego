@@ -1,0 +1,58 @@
+[
+  {
+    "model": "goshop.category",
+    "pk": 1,
+    "fields": {
+      "name": "Hardware",
+      "slug": "hardware",
+      "published": "2022-05-27T12:19:10.969Z",
+      "parent": null,
+      "lft": 1,
+      "rght": 8,
+      "tree_id": 1,
+      "level": 0
+    }
+  },
+  {
+    "model": "goshop.category",
+    "pk": 2,
+    "fields": {
+      "name": "Tools",
+      "slug": "tools",
+      "published": "2022-05-27T12:19:23.814Z",
+      "parent": 1,
+      "lft": 2,
+      "rght": 7,
+      "tree_id": 1,
+      "level": 1
+    }
+  },
+  {
+    "model": "goshop.category",
+    "pk": 3,
+    "fields": {
+      "name": "Paint Tool Accessories",
+      "slug": "paint-tool-accessories",
+      "published": "2022-05-27T12:19:45.891Z",
+      "parent": 2,
+      "lft": 3,
+      "rght": 4,
+      "tree_id": 1,
+      "level": 2
+    }
+  },
+  {
+    "model": "goshop.category",
+    "pk": 4,
+    "fields": {
+      "name": "Router Bits",
+      "slug": "router-bits",
+      "published": "2022-05-27T12:20:15.881Z",
+      "parent": 2,
+      "lft": 5,
+      "rght": 6,
+      "tree_id": 1,
+      "level": 2
+    }
+  }
+]
