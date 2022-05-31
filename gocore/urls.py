@@ -6,7 +6,7 @@ from django.conf.urls.static import static
 from gocore.settings import DEBUG
 
 urlpatterns = [
-    path('admin/', admin.site.urls),
+    path('admin', admin.site.urls),
     path('dashboard', include("dashboard.urls", namespace="dashboard")),
     path('', include("goshop.urls", namespace="goshop"))
 ]
