@@ -5,3 +5,4 @@ from whitenoise import WhiteNoise
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'gocore.settings')
 
 application = get_wsgi_application()
+application = WhiteNoise(application, "static")
