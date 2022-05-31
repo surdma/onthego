@@ -34,7 +34,6 @@ PROJECT_APPS = [
 
 PACKAGES = [
     'mptt',
-    'whitenoise',
 ]
 
 DEFAULT_APPS = [
@@ -82,6 +81,7 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'gocore.wsgi.application'
 
+STATICFILES_STORAGE = "whitenoise.storage.CompressedStaticFilesStorage"
 
 # Database
 # https://docs.djangoproject.com/en/4.0/ref/settings/#databases
@@ -141,4 +141,3 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 CART_SESSION_ID = "cart"
 
 
-STATICFILES_STORAGE = "whitenoise.storage.CompressedManifestStaticFilesStorage"
